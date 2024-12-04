@@ -1,0 +1,12 @@
+@import url('styles/main.css');
+
+
+:root {
+    --cor-fundo: #000000;
+    --cor-fonte-primaria: #f6f6f6;
+    --cor-destaque: #22d4fd;
+}
+
+body {
+    background-color: var(--cor-fundo);
+}
