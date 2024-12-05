@@ -5,6 +5,9 @@
     --cor-fundo: #000000;
     --cor-fonte-primaria: #f6f6f6;
     --cor-destaque: #22d4fd;
+    --fonte-texto: 'Montserrat';
+    --fonte-titulo: 'Krona One';
+
 }
 
 body {
