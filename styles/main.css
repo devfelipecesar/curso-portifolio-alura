@@ -1,3 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10%;
+}
+
+.container__conteudo {
+    width: 615px;
+}
+
 .container__titulo {
     font-family: Krona One;
     font-size: 36px;
@@ -8,4 +19,16 @@
 
 .titulo__destaque {
     color: var(--cor-destaque);
+}
+
+.container__texto {
+    font-family: Montserrat;
+    color: var(--cor-fonte-primaria);
+}
+
+
+.btn__ancora {
+    display: flex;
+    justify-content: space-between;
+    padding: 
 }
