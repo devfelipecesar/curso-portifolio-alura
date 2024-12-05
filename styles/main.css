@@ -2,11 +2,14 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 10%;
+    margin: 10% 20%;
 }
 
 .container__conteudo {
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .container__titulo {
